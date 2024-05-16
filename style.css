@@ -119,6 +119,7 @@ input {
     position: relative;
     top: 20px;
     margin: 20px 0 0 20px;
+    margin-bottom:10px;
     font-family: "Sora", sans-serif;
 }
 
